@@ -1,0 +1,52 @@
+来源: 教材/交叉学科基础物理教程 光学 (王沛，鲁拥华) (Z-Library).pdf
+PDF页码: 303
+提取方式: macOS Vision 本地 OCR（公式与光路图须核对原PDF）
+
+光学川
+GUANGXUE
+口
+288
+Ai
+Ao
+A20y
+Pi
+a
+O
+C（e）
+P2
+B
+Aze
+图5.28 自然光透过 PI、C、P2后
+的光矢量分解
+下面我们就具体分析有检偏器 P。的情况下透过P，的光场。单色平行自
+然光透过起偏器 P、晶片C及检偏器P，的光矢量的分解、大小及方向关系如
+图5.28 所示。
+1. 振幅大小关系
+在C中，有
+A。 = Aisina， Ac= Aicosa
+其中 Ai为透过P」后的振幅。
+在P2上，有
+Ao = AosinB = AusinasinB
+Ac= A.Co$B= A1cosacosB
+设从偏振片 P，出射两振动的位相差为A9，则通过P。后的光强为
+1z = 18 + 1& +2 vlo leCosA9
+18 = Ak = AY sin'a sinB
+Is= AE= Af cos‘a cosB
+12 = AY（cos'a cos"B + sin" a sin' B + 2cosacos BsinasinBcosAg）
+（5.3.1）
+注意：不要轻易和差化积、积化和差，因为存在坐标投影引入的相位差。
+2. 相位关系
+（1）入射光在波片上分解为o、e光分量间的位相差。、取决于人射光的偏
+振态：
+Pi一8人=
+0
+兀
+（2） 通过波片后的位相差 A（由波晶片引起的）力
+』=LE（ne-no）d
+（3）对于坐标轴投影引起的位相差。’，若o、e轴正向对P。轴的两个投影
+分量方向一致，则 '=0，否则 。
+故最终有
+10
+AY = OA +A+
+兀
+（5.3.2）

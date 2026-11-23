@@ -1,0 +1,53 @@
+来源: 教材/交叉学科基础物理教程 光学 (王沛，鲁拥华) (Z-Library).pdf
+PDF页码: 35
+提取方式: macOS Vision 本地 OCR（公式与光路图须核对原PDF）
+
+光学…啡
+GUANGXUE
+口
+图1.15 抛物线型梯度光纤剖面
+中的光线轨迹
+可改写为
+］
+cos0
+n“（r）
+n”（0） cos0.
+（1.1.12）
+分层界面处法线
+所以，路径光线在某点的斜率为
+dr
+= tand =
+dz
+-1）
+cos”0
+（1.1.13）
+则有
+dz =1
+dr
+n"（r）
+--1
+n”（0） cos*0i
+n（0cosd
+En：（r）-n：（0） cosa,Jadr
+可改写为
+n（0）cos0
+dz =
+［n：（0）（1- ap）-n'（0） coso,Juadr
+（1.1.14）
+进一步整理可得
+COsd」
+COs0，
+dz=1
+E（1-a2p3）- cos'0,Jvedr=
+［sin? Q，- a'pajvdr
+COs0：
+a
+dr
+「（Sine）
+71/2
+- p2
+（1.1.15）
+利用积分关系式］
+vB2-X2
+=arcsin •得2=J•dr = c0a2 arcsin （Sn.）.
+则有

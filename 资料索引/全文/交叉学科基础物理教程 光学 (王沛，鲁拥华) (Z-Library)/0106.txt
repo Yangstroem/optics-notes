@@ -1,0 +1,55 @@
+来源: 教材/交叉学科基础物理教程 光学 (王沛，鲁拥华) (Z-Library).pdf
+PDF页码: 106
+提取方式: macOS Vision 本地 OCR（公式与光路图须核对原PDF）
+
+91 第2章 光的电磁波描述及叠加
+（点）+（点）=1
+（2.3.6）
+Eyo
+可见，E 的末端随时间变化在Oxy平面上扫描出的轨迹是一个正椭圆，两
+半轴分别位于*轴和y轴，两半轴长分别为 Ex0、Eyo，如图2.32所示。
+当A9=元/2时，两同频率、振动方向相互垂直光波的叠加为右旋椭圆偏振光。
+（4） A9= m/2,3/2
+tanO = Eycos（of -kz+A9） - Em tan（oot -kz）
+E xo COs（wt - kz）
+tand=
+Em tan（oot）
+（2.3.7）
+Exo
+随着t增大，0增大。当迎着光的传播方向观察时，将会“看到”光矢量E
+沿逆时针方向转动（左旋）。E 的末端随时间变化在Oxy 平面上扫描出的轨迹
+亦是一个正椭圆（左旋椭圆偏振光），如图2.33所示。
+（5） A¢ 为任意值（一般情況）
+Ex （z,t） = ExuCos（wt - kz）= ExoCOs（wt）
+Ey （z,t） = Eyo Cos（ot - kz + A9） = EyoCos（wt + A9）
+Ewo
+Ex
+图2.32 右旋椭圆偏振光
+Ey
+整理：
+Em
+Ex= cosot
+Exo
+Ey
+= coSwtcosA - sinwtsinA9
+Ey
+Er sinLg = cosotsinAy
+Ex0
+E: cosLy-
+Ex= sinotsin2g
+Exo
+Eyo
+图2.33 左旋椭圆偏振光
+可得
+E+
+E-2
+E。
+E%
+ExE: cosAG = sin'（A9）
+（2.3.8）
+E xo Eyo
+由方程可见这是一个椭圆，其特点如下：
+① 是在2Ew。（ 向）、2Ew（y向）范围内的一个“斜椭圆”（两半轴的方位不
+与 、 轴重合）。
+② 椭圆的性质（方位，左、右旋）在Ex0、Eyo确定之后，主要决定于A9=
+fy9x。

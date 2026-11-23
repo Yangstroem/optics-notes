@@ -1,0 +1,45 @@
+来源: 教材/交叉学科基础物理教程 光学 (王沛，鲁拥华) (Z-Library).pdf
+PDF页码: 253
+提取方式: macOS Vision 本地 OCR（公式与光路图须核对原PDF）
+
+光学川
+GUANGXUE
+口
+图4.49 复振幅法求解光栅光强
+238
+Ap= Ep
+sinN 当
+sin
+Af
+= Eo单
+SIna
+Q
+sinNB
+sinB
+（4.3.33）
+Ip= 1o单
+•（Sine）”
+.（SinNB）：
+sin/
+（4.3.34）
+此即为 N 缝光栅夫琅禾费衍射的振幅和强度分布公式。其中B=号9
+sin0,a =Tfsin0。
+/on为单缝中央主银大光强。（”0C）’来源于单缝行射称为单缝衍射因
+子，（当灣）米源于轻射光间的干班，新为罐向干油因子，
+（2）复振幅法
+如图4.49所示，P点可看作是N 束平行的、振幅为E=Eom
+sine 且相邻两
+a
+東兆的位相差相同（A9-受 5ime）的主兆束干逃，所以、各缝在P点衍射兆场
+的复振幅可表示如下：
+（Eb=E
+E= Eelss
+〈Ep = Eeziup
+⋯….
+E= Ee N-1）ag
+P
+dsin 8
+P点的合成复振幅为
+Ep= Eo单
+sina （1 + ese + eaoe + .. + eld-Dar）
+Q

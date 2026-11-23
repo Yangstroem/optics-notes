@@ -1,0 +1,49 @@
+来源: 教材/交叉学科基础物理教程 光学 (王沛，鲁拥华) (Z-Library).pdf
+PDF页码: 118
+提取方式: macOS Vision 本地 OCR（公式与光路图须核对原PDF）
+
+103 第2章 光的电磁波描述及叠加
+2.4.2 菲涅耳公式
+1. 振幅关系
+（1） 光矢量振动垂直于入射面（即了分量，TE波）的情况
+如图2.55（a）所示，入射光、反射光、折射光的光矢量都垂直于入射面，且我
+们规定光矢量的正向都垂直入射面向里。根据各光波波矢的方向和麦克斯韦
+方程组确定的右手关系，可分别定出入射光、反射光、折射光的磁振动的正方
+向。再由电磁场边界条件：切向分量连续，得
+Eis+E'is= E2s
+Hipcosi」 - Hipcosil = Hapcosis
+H/E=
+VEOEr/ VHoK
+（2.4.6）
+（2.4.7）
+（2.4.8）
+JVEIn（Eiscosi」-Eiscosil）= vEz,E2scosiz
+（2.4.9）
+Els+ Eis= E2s
+Hip
+Hip
+i
+Hus
+His
+Eis
+Els
+*Eip
+Eip
+"x
+112
+Hap
+12
+E2:4
+（a） S波情形
+（b） P波情形
+（2）光矢量E振动平行于入射面（P分量，TM波）的情况
+如图 2.55（b）所示，有
+Hs+Hi=H2s
+-Eupcosi」 + Eipcosil =- Ezpcosiz
+-Eipcosi」 + Eipcosil =- Ezpcosiz
+VEiEip + VEiEip= VexEap
+图2.55 菲涅耳公式的推导
+（2.4.10）
+（2.4.11）
+（2.4.12）
+由以上公式，得

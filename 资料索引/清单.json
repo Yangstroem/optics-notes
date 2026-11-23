@@ -1,0 +1,95 @@
+[
+  {
+    "original": "1-01 几何光学基本定律(1).pptx",
+    "path": "课件/1-01 几何光学基本定律(1).pptx",
+    "sha256": "e45aac46dcc3359b59f83e5e6142fa53ec95de152d0262b7d62a89442000633e",
+    "pages": 62,
+    "index_method": "PPTX 文本、表格、备注及图片关联",
+    "low_text_pages": [
+      1,
+      11,
+      14,
+      15,
+      16,
+      17,
+      19,
+      20,
+      26,
+      27,
+      28,
+      30,
+      31,
+      32,
+      33,
+      34,
+      41,
+      42,
+      45,
+      46,
+      52,
+      53,
+      59,
+      61
+    ],
+    "image_count": 78,
+    "index_date": "2026-09-13"
+  },
+  {
+    "original": "1-02 成像 共轴球面组傍轴成像(1).pptx",
+    "path": "课件/1-02 成像 共轴球面组傍轴成像(1).pptx",
+    "sha256": "93d1c9239e36ab8dcb857fe920c341778b0a9778f89304bcf2824173daa15e0e",
+    "pages": 49,
+    "index_method": "PPTX 文本、表格、备注及图片关联",
+    "low_text_pages": [
+      1,
+      20,
+      25,
+      26
+    ],
+    "image_count": 24,
+    "index_date": "2026-09-13"
+  },
+  {
+    "original": "1-03 薄透镜成像 理想光具组(1).pptx",
+    "path": "课件/1-03 薄透镜成像 理想光具组(1).pptx",
+    "sha256": "c7c0aad34e2043310cb1b7422e2c0e73876d0a6acc2693c825b1ad645adf731a",
+    "pages": 61,
+    "index_method": "PPTX 文本、表格、备注及图片关联",
+    "low_text_pages": [
+      1,
+      35,
+      36,
+      53
+    ],
+    "image_count": 7,
+    "index_date": "2026-09-13"
+  },
+  {
+    "original": "交叉学科基础物理教程 光学 (王沛，鲁拥华) (Z-Library).pdf",
+    "path": "教材/交叉学科基础物理教程 光学 (王沛，鲁拥华) (Z-Library).pdf",
+    "sha256": "1bcbf00a12190fa4137c51c7e1e1a5ea0b015b0f6472598a6616e1f5576eb543",
+    "pages": 417,
+    "index_method": "macOS Vision 本地 OCR",
+    "low_text_pages": [
+      25,
+      75,
+      139,
+      140,
+      209,
+      369,
+      391
+    ],
+    "text_chars": 291901,
+    "index_date": "2026-09-13"
+  },
+  {
+    "original": "截屏2026-11-02 15.38.09.png",
+    "path": "习题/平行膜多光束干涉与增透膜/题目截图.png",
+    "sha256": "939d79293c4ca74bd0d03782a0a6f4e23b59893b7376fdefef8f53b7ca4cfe63",
+    "pages": 1,
+    "page_kind": "用户截图，不代表原书页码",
+    "index_method": "查看原图后人工转录题面与光路符号",
+    "text_index": "资料索引/全文/平行膜多光束干涉与增透膜-截图/0001.txt",
+    "index_date": "2026-11-02"
+  }
+]

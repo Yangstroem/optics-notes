@@ -1,0 +1,79 @@
+来源: 教材/交叉学科基础物理教程 光学 (王沛，鲁拥华) (Z-Library).pdf
+PDF页码: 122
+提取方式: macOS Vision 本地 OCR（公式与光路图须核对原PDF）
+
+107 第2章 光的电磁波描述及叠加
+因而能流的反射率和透射率可以分别表示为
+沉：=
+Wix=
+Wis
+Was
+S：=
+Wis
+/is
+=R，
+11s
+I2scosi2
+= SOS12T，
+liscosii
+cosii
+W^
+9，=
+IP
+Wip
+=Rp
+lip
+3，
+Wap
+Iup Cosiz
+- SONLT。
+（2.4.23）
+Wip
+Lipcosii
+cosi1
+对折射光，能流透射率与光强透射率一般不一样。因为透射光进入第二种
+介质时，光束截面积会发生变化，只有在正入射时相同。
+例2.2 当一束光从空气（n=1.0）入射到玻璃（n2 =1.5）时，设人射角
+i=60°，求9，.3p，2.，3p。
+解有
+sini」 = v3/2- cosiz ~0.82
+Rs~0.178，
+Rp ~0.002，
+3. = COSH2 T， ~82.2%
+cosii
+%= R，~17.8%
+3， = COS12 T， ~99.9%
+cosi」
+3，= Rp~0.2%
+3，+3，~100%
+3，+3，~100%
+也可由菲涅耳公式得到结果：
+W'
+9i；=
+Is
+Wis
+21：=
+W2s
+Wis
+1's
+Rs=
+=
+Iis
+12s
+Ts=
+1
+lis
+T， ~0.501,T， ~0.609
+Is
+=Rs
+11s
+L.cosrz= cost2T，
+liscosii
+cosi1
+ni|E1s2
+11
+12
+Ezs2
+n|Eis12
+= 11.12
+1i

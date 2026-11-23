@@ -1,0 +1,43 @@
+来源: 教材/交叉学科基础物理教程 光学 (王沛，鲁拥华) (Z-Library).pdf
+PDF页码: 150
+提取方式: macOS Vision 本地 OCR（公式与光路图须核对原PDF）
+
+135
+第3章光的干涉
+f、=
+COSa2 -COSQ1 =
+入
+15，= COS/B：-cOsB，
+入
+= fay-fiy
+COSY2 - COSY1
+f：=
+=f2a- fiz
+入
+Kax Ki= for-fiw
+2元
+（3.1.34）
+可见：两相干的平面波干涉，其干涉图样在观察屏（某一平面）上的分布是
+明暗相间的等周期分布的直线。
+例3.2 分析如图3.3（a）所示两相干平面波在 Oxy平面上的干涉图样。
+（a）
+（b）
+图 3.3 两束平行光的干涉
+解（1）由图3.3（a）可知：k1,k:C平面 X2，Q1=+01,Q2=芬-02，
+B=B2=
+，2=0，根据式（3.1.34）的结果可直接得到
+COSa2
+一COSa1
+sinds + sind
+入
+fy=0
+1
+dx=
+dy=∞
+sind， + sin0i
+K 与z轴两侧夹角一（sindz +sin0i），同侧夹角一（sind2-sindj）。
+（2） 由图示可写出两光波场的波函数：
+E」（x,y）= Eioe'-hsina *t9io'， Ez（x,y）= Ezoel（ksinBz *+9g）
+I（x,y）=1+12+2v1112c0s（A9）
+所以
+A9 = kzx - kix = k（sindz + sin0i）x + 920 - 910

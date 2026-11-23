@@ -1,0 +1,9 @@
+.DS_Store
+._*
+.AppleDouble/
+__pycache__/
+*.py[cod]
+~$*
+*.tmp
+*.swp
+*.swo
